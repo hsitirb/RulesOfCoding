@@ -1,2 +1,1 @@
 # RulesOfCoding
-# RulesOfCoding
